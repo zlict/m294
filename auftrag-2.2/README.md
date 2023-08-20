@@ -1,3 +1,1 @@
-# Memory
-## Sources
-https://de.wikipedia.org/wiki/Liste_der_Wappen_und_Fahnen_der_Schweizer_Kantone
+Kopieren Sie Ihr Resultat aus dem Auftrag 1.1 und kopieren Sie es in diesen Ordner.
