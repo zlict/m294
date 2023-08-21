@@ -1,0 +1,1 @@
+sup.reference{font-family:sans-serif;font-variant:normal}ol.references li a[href|="#cite_ref"]{font-style:italic}span[rel="mw:referencedBy"]{counter-reset:mw-ref-linkback 0}span[rel="mw:referencedBy"] > a::before{font-style:italic;content:counter(mw-ref-linkback,lower-alpha)}ol.references li div.sisterproject{display:inline}
